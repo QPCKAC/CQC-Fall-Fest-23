@@ -1,6 +1,6 @@
 # CQC-Fall-Fest-23
 
-![alt text](https://github.com/QPCKAC/CQC-Fall-Fest-23/blob/main/CQC x IBM Fall Fest poster.png?raw=true)
+![alt text](<https://github.com/QPCKAC/CQC-Fall-Fest-23/blob/main/CQC x IBM Fall Fest poster.png?raw=true>)
 
 Join us for a quantum computing workshop that is meant to introduce you to quantum computing concepts through guided tutorials.
 
