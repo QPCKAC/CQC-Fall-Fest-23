@@ -11,3 +11,6 @@ This repo will hold our tutorials adn material that we will be using for the eve
 Date: Saturday, Oct. 7th
 Locations: ThinkBox Frist Floor
 Time: 10am - 4PM 
+
+
+Join our Discord: https://discord.gg/Gmwsg2adxq
