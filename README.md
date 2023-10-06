@@ -17,4 +17,4 @@ Join our Discord: https://discord.gg/Gmwsg2adxq
 
 --- Links ---
 
-IBMQ Lab: ![url](<https://learning.quantum-computing.ibm.com/>)
+[IBMQ Lab](<https://learning.quantum-computing.ibm.com/>)
