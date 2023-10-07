@@ -52,6 +52,8 @@ Group Size: 1-4 People
 
 Prizes will be awarded based on who submits the best video as judged by the Executive Board.
 
+Please email your submission video to: quantumclub@case.edu
+
 ## Helpful Links
 
 Link to launch IBM Quantum Composer: https://quantum-computing.ibm.com/composer
