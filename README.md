@@ -1,5 +1,7 @@
 # CQC-Fall-Fest-23
 
+## The Day is Here!
+
 ![alt text](<https://github.com/QPCKAC/CQC-Fall-Fest-23/blob/main/CQC x IBM Fall Fest poster.png?raw=true>)
 
 Join us for a quantum computing workshop that is meant to introduce you to quantum computing concepts through guided tutorials.
@@ -10,7 +12,7 @@ This repo will hold our tutorials and materials that we will be using for the ev
 
 Date: Saturday, Oct. 7th
 Locations: ThinkBox Frist Floor
-Time: 10am - 4PM 
+Time: 10am - 4PM
 
 
 Join our Discord: https://discord.gg/Gmwsg2adxq
