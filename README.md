@@ -54,6 +54,8 @@ Prizes will be awarded based on who submits the best video as judged by the Exec
 
 Please email your submission video to: quantumclub@case.edu
 
+(The video file will likely not send over email. Feel free to send us a google drive link or whatever method will allow us to view your video.)
+
 ## Helpful Links
 
 Link to launch IBM Quantum Composer: https://quantum-computing.ibm.com/composer
