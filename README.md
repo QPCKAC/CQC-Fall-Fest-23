@@ -22,7 +22,7 @@ You will need an account with IBM Quantum, it’s fast to make and completely 
 
 ## Labs
 
-You will go through 3 Labs from IBM along as well as informational videos and problem sets from Institut Quantique de l'Université de Sherbrooke. These will all work to help you come to terms with some of the quantum weirdness and familiarize yourself with Qiskit.
+You will go through 3 Labs from IBM as well as informational videos and problem sets from Institut Quantique de l'Université de Sherbrooke. These will all work to help you come to terms with some of the quantum weirdness and familiarize yourself with Qiskit.
 
 ### Order of Instruction
 
