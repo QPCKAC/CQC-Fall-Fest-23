@@ -42,6 +42,16 @@ You will go through 3 Labs from IBM as well as informational videos and problem 
 
 XXX: If you finish all this please reach out to organizers for tougher problems
 
+## Presentation Instructions
+
+Prompt: Create a video in which you present on a topic that you found interesting during the event.
+
+Video Length: 3-6 minutes
+
+Group Size: 1-4 People
+
+Prizes will be awarded based on who submits the best video as judged by the Executive Board.
+
 ## Helpful Links
 
 Link to launch IBM Quantum Composer: https://quantum-computing.ibm.com/composer
@@ -53,7 +63,10 @@ Qiskit Textbook: https://qiskit.org/learn/course/introduction-course
 Qiskit SDK: https://qiskit.org/
 
 Qiskit Documentation: [Qiskit API Docs 0.43](<https://qiskit.org/documentation/>)
+
 Link to join Qiskit slack: https://ibm.co/joinqiskitslack
+
+
 
 
 
