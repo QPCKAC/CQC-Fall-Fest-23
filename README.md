@@ -27,12 +27,19 @@ You will go through 3 Labs from IBM along as well as informational videos and pr
 ### Order of Instruction
 
 000A: Introduction [Video](<https://youtu.be/yI-c30REP7s?si=MHjZLsVKA4_slzgI>)
+
 000B: First Steps (Lab A)
+
 001: The Treasure Door (Lab B) [Video](<https://youtu.be/c1beJIg8lRs?si=1XgXjyxf9v8sb2Q1>)
+
 002: The Four Hair Colours [Video & Problem Set](<https://learn.qiskit.org/problem-sets/quantum_enigma_002/overview>)
+
 003: The Four-Square Chessboard [Video & Problem Set](<https://learn.qiskit.org/problem-sets/quantum_enigma_003/overview>)
+
 004: The Monty Hall Problem [Video & Problem Set](<https://learn.qiskit.org/problem-sets/quantum_enigma_004/overview>)
+
 00X: Dynamic Circuits (Lab C)
+
 XXX: If you finish all this please reach out to organizers for tougher problems
 
 ## Helpful Links
